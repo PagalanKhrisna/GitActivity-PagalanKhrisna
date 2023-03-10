@@ -1,3 +1,6 @@
 print ("Khrisna O. Pagalan")
 print ("Daig,Boac,Marinduque")
 print ("October 29, 2002")
+print ("College of Information and Computing Sciences")
+print ("Bachelor of Science in Information Technology")
+print ("BSI/T-2B")
